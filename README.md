@@ -6,6 +6,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gnsaddy/)](https://www.linkedin.com/in/gnsaddy/)
 
+```
+I'm
+Full Stack Developer -
+The crossover between design and programming has always been of interest to me, ability to learn and implement new technologies quickly. Passionate about implementing and launching new projects. I have a wide range of skills that include front-end development (ReactJs, NextJs, Taildwind CSS, HTML5, CSS3, Javascript, Responsive, UX), back-end development using open-source technologies (NodeJs, Python), Cloud technologies (AWS, Azure), database(MongoDB, Postgres, Mysql), CI/CD (Docker, Kubernetes, Github Actions)
+
+
+```
+
 ### 💻: &nbsp;About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
@@ -54,4 +62,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ![](https://activity-graph.herokuapp.com/graph?username=gnsaddy&theme=react-dark&area=true)
 
----
