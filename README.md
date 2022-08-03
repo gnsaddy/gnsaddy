@@ -58,7 +58,7 @@ The crossover between design and programming has always been of interest to me, 
 
 <a href="http://www.github.com/gnsaddy"><img src="https://github-readme-stats.vercel.app/api?username=gnsaddy&show_icons=true&hide=stars,prs,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="PraveenMalethia's GitHub stats" /></a>
 
-![](https://activity-graph.herokuapp.com/graph?username=gnsaddy&theme=react-dark&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=gnsaddy&theme=dark&background=000000)
 
 
 
