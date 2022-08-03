@@ -14,7 +14,7 @@ The crossover between design and programming has always been of interest to me, 
 
 - 🔭 I’m working as a Software Developer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
-- 📷 Love to freeze Moments [![Instagram Badge](https://img.shields.io/badge/-aditya-white?style=flat&logo=Instagram&logoColor=red)](https://www.linkedin.com/in/gnsaddy)
+- 📷 Love to freeze Moments [![Instagram Badge](https://img.shields.io/badge/-aditya-white?style=flat&logo=Instagram&logoColor=red)](https://www.instagram.com/gnsaddy/)
 - ⚡ In my free time I read tech articles, explore new technologies and do freelancing.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-aditya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gnsaddy)
 
