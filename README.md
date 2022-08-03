@@ -7,7 +7,7 @@
 
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aditya-Raj?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gnsaddy/)](https://www.linkedin.com/in/gnsaddy/)
+[![Linkedin Badge](https://img.shields.io/badge/-Aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gnsaddy/)](https://www.linkedin.com/in/gnsaddy/)
 
 
 <p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="300"  /></p>
