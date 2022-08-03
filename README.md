@@ -2,7 +2,7 @@
 <p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="300"  /></p>
 
 ### Hi Developers 👋 My name is Aditya Raj
-=================================
+---
 
 [![Linkedin Badge](https://img.shields.io/badge/-Aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gnsaddy/)](https://www.linkedin.com/in/gnsaddy/)
 
