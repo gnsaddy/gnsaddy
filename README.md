@@ -27,7 +27,7 @@ The crossover between design and programming has always been of interest to me. 
   </a>
 </div>
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;Languages and Tools:
 
 <p>
   
