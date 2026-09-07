@@ -8,7 +8,6 @@
 
 ### 💻 &nbsp;About Me :
 
-I'm
 # 👋 Hi, I'm Aditya
 
 I'm a **Software & Cloud Engineer from India**, passionate about building scalable systems at the intersection of **Cloud, Kubernetes, and AI**.
