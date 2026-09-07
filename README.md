@@ -20,10 +20,6 @@ The crossover between design and programming has always been of interest to me. 
 
 ---
 
-### 🛠 &nbsp;Languages and Tools:
-
----
-
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gnsaddy&theme=dark&background=000000)](https://git.io/streak-stats)
 
