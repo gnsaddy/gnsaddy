@@ -9,14 +9,17 @@
 ### 💻 &nbsp;About Me :
 
 I'm
-Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. 
-The crossover between design and programming has always been of interest to me. Ability to learn and implement new technologies quickly is one of my strength. Passionate about implementing and launching new projects. I have a wide range of skills that include front-end development (ReactJs, NextJs, Taildwind CSS, HTML5, CSS3, Javascript, Responsive, UX), back-end development using open-source technologies (NodeJs, Python), Cloud technologies (AWS, Azure), database(MongoDB, Postgres, Mysql), CI/CD (Docker, Kubernetes, Github Actions)
+# 👋 Hi, I'm Aditya
 
-- 🔭 I’m working as a Software Developer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- 📷 Love to freeze Moments [![Instagram Badge](https://img.shields.io/badge/-aditya-white?style=flat&logo=Instagram&logoColor=red)](https://www.instagram.com/gnsaddy/)
-- ⚡ In my free time I read tech articles, explore new technologies and do freelancing.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-aditya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gnsaddy)
+I'm a **Software & Cloud Engineer from India**, passionate about building scalable systems at the intersection of **Cloud, Kubernetes, and AI**.
+
+🔧 **Python • Go • Kubernetes • Docker • Terraform • AWS • CI/CD**
+
+🤖 Currently exploring **LLMs, AI Infrastructure, GPU workloads, Model Serving, and MLOps**.
+
+🚀 I enjoy learning new technologies, building things, and turning ideas into production-ready systems.
+
+📫 [LinkedIn](https://www.linkedin.com/in/gnsaddy)
 
 ---
 
