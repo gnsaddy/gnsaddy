@@ -14,9 +14,8 @@ I build **scalable, cloud-native systems** and I'm currently exploring the inter
 
 I enjoy learning new technologies, building things from scratch, and turning ideas into **reliable, production-ready systems**.
 
-### 🔗 Connect
-
 [LinkedIn](https://www.linkedin.com/in/gnsaddy)
+[Youtube](https://www.youtube.com/@addywithai)
 
 
 ---
